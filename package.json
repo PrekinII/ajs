@@ -1,0 +1,19 @@
+{
+  "name": "@prekinii/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrekinII/ajs.git"
+  },
+  "author": "PrekinII",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrekinII/ajs/issues"
+  },
+  "homepage": "https://github.com/PrekinII/ajs#readme",
+  "description": ""
+}
